@@ -1,4 +1,4 @@
 haskell-presentation
 ====================
 
-Loose ramblings about Haskell - a short presentation about Haskell.
+Lazy ramblings about Haskell - a short presentation about Haskell.
