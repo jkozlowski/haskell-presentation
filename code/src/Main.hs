@@ -24,5 +24,6 @@ queens n = filter test (generate n)
           sameDiag try qs = any (\(colDist,q) -> abs (try - q) == colDist) $ zip [1..] qs
 
 
+
 main :: IO ()
-main = putStrLn "Hello World!"
+main = putStrLn $ "Hello World!"
