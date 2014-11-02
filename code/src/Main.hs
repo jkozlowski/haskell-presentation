@@ -1,10 +1,5 @@
 module Main where
 
-import Test.QuickCheck
-import Test.QuickCheck.Arbitrary
-import Test.QuickCheck.Gen
-import System.IO.Unsafe (unsafePerformIO)
-
 randomList :: [Integer]
 randomList = [671,594,212,490,361,636,941,714,877,220,201]
 

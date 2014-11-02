@@ -1,0 +1,29 @@
+* Introduction
+* Purpose: pointers to how to start. Not convince that Haskell is the best.
+* Ask questions immediately.
+* Cheat sheet.
+* Fast pace, but can provide examples if necessary.
+* Haskell is an advanced, strongly typed, purely functional programming with lazy evaluation.
+* Laziness: it will not evaluate expressions unless it is necessary. Infinite list, quicksort.
+* Laziness interesting because of composability.
+* Purity: separation of pure and side-effecting code. Type signatures. RTS side-effecting.
+  Haskell not.
+* Purity + referential transparency mean more opportunities for optimisation.
+* Strong typing: Haskell type system is more powerful than Java's. Type inference.
+* Cabal + Hackage.
+* GHC + GHCi.
+* Hoogle: search for map by signature.
+* QuickCheck: John Hughes, erland, Basho, Riak. 
+* Accelerate: embedded array language. Cuda. Multicore. Dot product.
+* Criterion: I used it, graphs, stats.
+* Ganeti: develed and deployed at Google, now opensource. Learnt about it at Haskell eXchange.
+  Originally in Python, now mostly Haskell.
+* Parallelist: concurrency, green threads.
+* STM: lock free programming through memory transactions.
+* Template Haskell: cheap, metaprogramming, compile time code generation.
+* Copilot/Atom: Nasa, embedded/realtime C, runtime monitoring and verification.
+* Warp: apparently more scalable than nginx. very optimised.
+* Mio: haskell IO manager written in Haskell.
+* Phillip Wadler: Java generics.
+* Eric Meijer: LINQ.
+* Avoid success at all cost!
