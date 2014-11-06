@@ -31,6 +31,7 @@ Available on Safari.
 All round fantastic and free book: chapters about Haskell projects:
 * http://www.aosabook.org/en/posa/warp.html
 * http://aosabook.org/en/ghc.html
+* http://aosabook.org/en/yesod.html
 
 ** QuickCheck
 
