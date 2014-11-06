@@ -1,0 +1,52 @@
+Video: https://www.youtube.com/watch?v=zhTLnQLrQ_w
+Github repo: https://github.com/jkozlowski/haskell-presentation
+
+** Real World Haskell - Don Stewart (Standard Chartered), Bryan O'Sullivan (Facebook), and John Goerzen
+Slightly outdated, but still perfectly readable, book about writing real-world software in Haskell.
+Available for free online: http://book.realworldhaskell.org/read/
+
+** Learn You a Haskell for Great Good!
+Simple tutorial through Haskell syntax, concepts and data types.
+Available for free online: http://learnyouahaskell.com/chapters
+
+** Thinking functionally with Haskell - Richard Bird
+Recently released second edition of a great book by Richard Bird which introduces the concepts
+that Haskell represents in a rather approachable way, with plenty of excercises for the reader.
+Available on Amazon, soon hopefully for free on Safari: http://www.amazon.co.uk/Thinking-Functionally-Haskell-Richard-Bird/dp/1107452643
+
+** Parallel and Concurrent Programming in Haskell - Simon Marlow (Facebook)
+What it says on the cover :)
+Available for free online: http://chimera.labs.oreilly.com/books/1230000000929/index.html
+
+** Haskell Financial Data Modelling and Predictive Analytics - Pavel Ryzhov
+Available on Safari.
+
+** The Haskell School of Expression - Paul Hudak
+Available on Safari.
+
+** Functional Programming for Java Developers - Dean Wampler
+Available on Safari.
+
+** Architecture of Open Source Software - http://aosabook.org/en/index.html
+All round fantastic and free book: chapters about Haskell projects:
+* http://www.aosabook.org/en/posa/warp.html
+* http://aosabook.org/en/ghc.html
+
+** QuickCheck
+
+The couple of talks from John Hughes:
+* https://www.youtube.com/watch?v=zi0rHwfiX1Q
+* https://skillsmatter.com/skillscasts/4505-quickchecking-riak
+
+** Libraries mentioned during the presentation
+* New Haskell homepage: http://new-www.haskell.org/ and http://new-www.haskell.org/documentation
+* Haskell platform: installer for the Haskell compiler and basic libraries: https://www.haskell.org/platform/
+* Haskell project skeleton: https://github.com/tfausak/haskeleton
+* Hoogle: searchable database of functions: https://www.haskell.org/hoogle
+* HLint: http://community.haskell.org/~ndm/hlint/
+* Accelerate: http://www.cse.unsw.edu.au/~chak/papers/acc-cuda.pdf
+* Criterion: http://www.serpentine.com/criterion/
+* Nix(OS): http://nixos.org/
+* Ganeti: https://code.google.com/p/ganeti/
+* Template Haskell: https://www.haskell.org/haskellwiki/Template_Haskell
+* Flying drones with Haskell: http://smaccmpilot.org/
