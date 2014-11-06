@@ -51,3 +51,4 @@ The couple of talks from John Hughes:
 * Ganeti: https://code.google.com/p/ganeti/
 * Template Haskell: https://www.haskell.org/haskellwiki/Template_Haskell
 * Flying drones with Haskell: http://smaccmpilot.org/
+* IntelliJ Plugin: https://github.com/carymrobbins/intellij-haskforce
